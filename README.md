@@ -9,7 +9,7 @@
 * Lấy vị trí của từ Tutorial trong chuỗi
 * Thay thế Online bằng offline 
 
-**Bài 3: **
+**Bài 3:**
 * Tạo và in ngày giờ hiện tại
 * Tạo một ngày giờ cụ thể ( ngày 2024-01-01 lúc 18:30 )
 * Cộng và trừ thời gian từ ngày giờ hiện tại và hiển thị lên màn hình : Cộng thêm 2 tuần, Trừ đi 3 ngày, Cộng thêm 5 giờ
