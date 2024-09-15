@@ -3,7 +3,7 @@
 **Bài 1 :** Viết chương trình tạo ra 2 biến a và b kiểu số nguyên, thực hiện in ra màn hình : a + b, a – b, a * b , a/b
 
 **Bài 2 :** Viết chương trình thực hiện thao tác với chuỗi sau: Automation Testing Alphaway Tutorial Online :
- Đếm số lượng kí tự
+* Đếm số lượng kí tự
 * Kiểm tra chuỗi có chứa từ Testing hay không
 * Kiểm tra chuỗi bắt đầu bằng từ Automation không
 * Lấy vị trí của từ Tutorial trong chuỗi
