@@ -5,11 +5,11 @@ import lombok.Data;
 @Data
 public class Person {
     private String strName;
-    private int strAge;
+    private int intAge;
 
     public void displayInfo() {
         System.out.println("Name: " + getStrName());
-        System.out.println("Age:" + getStrAge());
+        System.out.println("Age:" + getIntAge());
         System.out.println("=======================================================================");
     }
 }

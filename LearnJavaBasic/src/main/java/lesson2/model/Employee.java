@@ -10,7 +10,7 @@ public class Employee extends Person {
     public void displayInfo () {
         System.out.println("Code Emmployee: " + getStrCodeEmployee());
         System.out.println("Name: " + getStrName());
-        System.out.println("Age: " + getStrAge());
+        System.out.println("Age: " + getIntAge());
         System.out.println("Salary: " + getFloatSalary());
         System.out.println("=======================================================================");
     }

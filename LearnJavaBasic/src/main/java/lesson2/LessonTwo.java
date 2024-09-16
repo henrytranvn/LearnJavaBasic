@@ -10,14 +10,14 @@ public class LessonTwo {
         /* Tao 1 doi tuong Person */
         Person objPerson = new Person();
         objPerson.setStrName("Nguyen Tran Trung");
-        objPerson.setStrAge(30);
+        objPerson.setIntAge(30);
         objPerson.displayInfo();
 
         /* Tao 1 doi tuong Employee */
         Employee objEmployee = new Employee();
         objEmployee.setStrCodeEmployee("NV01");
         objEmployee.setStrName("Peter");
-        objEmployee.setStrAge(25);
+        objEmployee.setIntAge(25);
         objEmployee.setFloatSalary(35000);
         objEmployee.displayInfo();
 
@@ -25,19 +25,19 @@ public class LessonTwo {
         Employee objEplFirst = new Employee();
         objEplFirst.setStrCodeEmployee("01");
         objEplFirst.setStrName("David");
-        objEplFirst.setStrAge(18);
+        objEplFirst.setIntAge(18);
         objEplFirst.setFloatSalary(39000);
 
         Employee objEplSecond = new Employee();
         objEplSecond.setStrCodeEmployee("02");
         objEplSecond.setStrName("Shane");
-        objEplSecond.setStrAge(33);
+        objEplSecond.setIntAge(33);
         objEplSecond.setFloatSalary(24000);
 
         Employee objEplThird = new Employee();
         objEplThird.setStrCodeEmployee("03");
         objEplThird.setStrName("Mary");
-        objEplThird.setStrAge(33);
+        objEplThird.setIntAge(33);
         objEplThird.setFloatSalary(23000);
 
         ArrayList<Employee> arrEmployee = new ArrayList<Employee>();
