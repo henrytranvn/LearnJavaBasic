@@ -23,7 +23,7 @@ _ Định dạng và phân tích chuỗi ngày giờ hiện tại với format y
 * Sử dụng cấu trúc if-else và vòng lặp for để kiểm tra xem số đó là số chẵn hay số lẻ..
 * In ra màn hình kết quả kiểm tra. 
 
-**Bài 2 : **
+**Bài 2 :**
 * Tạo một lớp Person với các thuộc tính cơ bản như tên và tuổi. Lớp này nên bao gồm các phương thức getter và setter, và một phương thức displayInfo để hiển thị thông tin cá nhân.
 * Tạo một lớp Employee kế thừa từ lớp Person và bổ sung thêm các thuộc tính như mã nhân viên và lương. Lớp này cũng nên bao gồm các phương thức getter và setter, và ghi đè phương thức displayInfo để hiển thị thông tin nhân viên.
 * Viết chương trình chính để tạo các đối tượng Employee và hiển thị thông tin của họ.
