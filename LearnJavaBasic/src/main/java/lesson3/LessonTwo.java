@@ -18,8 +18,11 @@ public class LessonTwo {
         System.out.println("After add set: " + set);
 
         LearnHashSet objLearnHashSet = new LearnHashSet();
-        String valueCheck = "Nha Trang";
-        boolean isCheck = objLearnHashSet.isExist(set, valueCheck);
-        System.out.println("Kiem tra gia tri " + valueCheck + " co trong mang khong? Trang thai: " + isCheck);
+        String valueCheckOne = "Nha Trang";
+        String valueCheckTwo = "Ca Mau";
+        boolean isCheckOne = objLearnHashSet.isExist(set, valueCheckOne);
+        boolean isCheckTwo = objLearnHashSet.isExist(set, valueCheckTwo);
+        System.out.println("Kiem tra gia tri " + valueCheckOne + " co trong mang khong? Trang thai: " + isCheckOne);
+        System.out.println("Kiem tra gia tri " + valueCheckTwo + " co trong mang khong? Trang thai: " + isCheckTwo);
     }
 }
