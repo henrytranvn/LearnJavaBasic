@@ -28,5 +28,14 @@ _ Định dạng và phân tích chuỗi ngày giờ hiện tại với format y
 * Tạo một lớp Employee kế thừa từ lớp Person và bổ sung thêm các thuộc tính như mã nhân viên và lương. Lớp này cũng nên bao gồm các phương thức getter và setter, và ghi đè phương thức displayInfo để hiển thị thông tin nhân viên.
 * Viết chương trình chính để tạo các đối tượng Employee và hiển thị thông tin của họ.
 
+## Lesson 1
+**Bài 1:** Tính tổng các phần tử trong một danh sách số nguyên
+* Viết một phương thức nhận vào một danh sách số nguyên và trả về tổng của tất cả các số trong danh sách.
+**Bài 2:** Kiểm tra tính hợp lệ của các phần tử trong một danh sách
+* Viết một phương thức nhận vào một danh sách và kiểm tra xem tất cả các phần tử có phải là duy nhất hay không bằng cách sử dụng một HashSet. Phương thức này sẽ trả về true nếu tất cả các phần tử là duy nhất và false nếu có ít nhất một phần tử trùng lặp.
+**Bài 3:** Kiểm tra xem một khóa có tồn tại trong Map không
+* Viết một phương thức nhận vào một Map và một khóa cần kiểm tra. Phương thức này sẽ trả về true nếu khóa tồn tại trong Map và false nếu không.
+
+
 
 
